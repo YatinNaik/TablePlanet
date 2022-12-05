@@ -1,0 +1,92 @@
+body {
+    margin-left: 24%;
+    background-image: url('https://img.freepik.com/free-vector/royal-watercolor-valentine-red-background_1340-4006.jpg?w=740&t=st=1670158657~exp=1670159257~hmac=8cd3f7b5fdbafd124742117f29e69def8086dae1f19b9fe29ef17964482accc7');
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin: 0%;
+    margin-right: 9em;
+}
+
+.circle-wrapper {
+    width: 501px;
+    height: 501px;
+    border: 2px solid black;
+    border-radius: 51%;
+    position: relative;
+    margin: 5em;
+    background-image: url('https://img.freepik.com/free-vector/colorful-ahmedabad-skyline_23-2148634825.jpg?w=740&t=st=1670149816~exp=1670150416~hmac=ed6d0b6d7471c28032d9eac2ca269b79c98c15e5b855a23c00baba215fab71a6');
+}
+
+.circle {
+    display: block;
+    position: absolute;
+    top: 51%;
+    left: 51%;
+    width: 100px;
+    height: 100px;
+    margin: -60px;
+    border-radius: 51%;
+    text-align: center;
+    line-height: 100px;
+}
+
+
+.deg-0 {
+    border: 2px solid black;
+    transform: translate(251px);
+    background-image: url('https://img.freepik.com/free-photo/lotus-mahal-hampi_181624-60764.jpg?w=740&t=st=1670149323~exp=1670149923~hmac=4d81903fe63fe99d3aa6ee791266ad064c2fd9669561b7a19e06f837c61c906a');
+    background-size: cover;
+}
+
+.deg-45 {
+    transform: rotate(46deg) translate(251px) rotate(-46deg);
+    background-image: url('https://img.freepik.com/premium-photo/stone-chariot-courtyard-vittala-temple-sunset-hampi-karnataka-india_211251-1235.jpg?size=626&ext=jpg&ga=GA1.2.2020102479.1663652337&semt=sph');
+    background-size: cover;
+    border: 2px solid black;
+}
+
+.deg-90 {
+    transform: rotate(91deg) translate(251px) rotate(-91deg);
+    background-image: url('https://img.freepik.com/free-photo/closeup-shot-wall-with-sculpting-hindu-temple-nepal_181624-7412.jpg?size=626&ext=jpg&ga=GA1.2.2020102479.1663652337&semt=ais');
+    background-size: cover;
+    border: 2px solid black;
+}
+
+.deg-135 {
+    transform: rotate(136deg) translate(251px) rotate(-136deg);
+    background-image: url('https://img.freepik.com/premium-photo/view-garibaldi-theater-piazza-amerina_106485-795.jpg?size=626&ext=jpg&ga=GA1.2.2020102479.1663652337&semt=ais');
+    background-size: cover;
+    border: 2px solid black;
+}
+
+.deg-180 {
+    transform: rotate(181deg) translate(251px) rotate(-181deg);
+    background-image: url('https://img.freepik.com/premium-photo/art-nature-pha-chor-grand-canyon-chiang-mai-province-thailand_28981-1196.jpg?size=626&ext=jpg&ga=GA1.2.2020102479.1663652337&semt=ais');
+    background-size: cover;
+    border: 2px solid black;
+}
+
+.deg-225 {
+    transform: rotate(226deg) translate(251px) rotate(-226deg);
+    background-image: url('https://img.freepik.com/free-photo/beautiful-buddhism-statue-bongeunsa-temple_74190-9913.jpg?size=626&ext=jpg&ga=GA1.2.2020102479.1663652337&semt=ais');
+    background-size: cover;
+    border: 2px solid black;
+}
+
+.deg-270 {
+    transform: rotate(271deg) translate(251px) rotate(-271deg);
+    background-image: url('https://t3.ftcdn.net/jpg/02/96/02/46/240_F_296024626_GXfJMkEDcQDF2t56LpWS5wOoqL0zXnhd.jpg');
+    background-size: cover;
+    border: 2px solid black;
+}
+
+.deg-315 {
+    transform: rotate(316deg) translate(251px) rotate(-316deg);
+    background-image: url('https://img.freepik.com/free-photo/india-kingdom-palace-king-mahal_1376-57.jpg?size=626&ext=jpg&ga=GA1.2.2020102479.1663652337&semt=ais');
+    background-size: cover;
+    border: 2px solid black;
+}
